@@ -1,0 +1,13 @@
+{
+  "company": {
+    "name": "Công ty TNHH Đất Việt",
+    "address": "abc Giải Phóng – Hà Nội"
+  },
+  "employees": [
+    {"name": "A", "unit": "A1"},
+    {"name": "B", "unit": "A1"},
+    {"name": "C", "unit": "A2"},
+    {"name": "D", "unit": "A3"},
+    {"name": "E", "unit": "A4"}
+  ]
+}
